@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-socketio-client-wt",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Node Red client to work with socket.io server",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inchol/node-red-contrib-socketio-client.git"
+    "url": "git+https://github.com/inchol/node-red-contrib-socketio-client-wt.git"
   },
   "keywords": [
     "node-red",
@@ -17,9 +17,9 @@
   "author": "Isaac Vitor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inchol/node-red-contrib-socketio-client/issues"
+    "url": "https://github.com/inchol/node-red-contrib-socketio-client-wt.git/issues"
   },
-  "homepage": "https://github.com/inchol/node-red-contrib-socketio-client.git#readme",
+  "homepage": "https://github.com/inchol/node-red-contrib-socketio-client-wt.git#readme",
   "dependencies": {
     "socket.io-client": "^4.2.0"
   },
